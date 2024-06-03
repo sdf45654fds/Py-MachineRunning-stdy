@@ -24,3 +24,5 @@ R2 score = R squard
 R2 score는 상대적인 성능을 나타내기 비교가 쉽다.
 실제 값의 분산 대비 예측값의 분산 비율을 의미한다.
 1에 가까울 수록 좋다.
+
+https://white-joy.tistory.com/10
